@@ -53,9 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=karshoul&theme=radical" alt="GitHub Streak" />
 </div>
 
-
-
-
 ---
 
 <!-- 🐍 Contribution Snake Animation -->
