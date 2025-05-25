@@ -48,10 +48,11 @@
 
 ## 📈 GitHub Stats & Activity
 
-<div align="center">
-  ![Karshoul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karshoul&show_icons=true&theme=radical)
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karshoul&theme=radical)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=karshoul&show_icons=true&theme=radical" alt="Karshoul's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karshoul&theme=radical" alt="GitHub Streak" />
 </div>
+
 
 ---
 
