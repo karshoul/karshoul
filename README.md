@@ -7,9 +7,9 @@
 
 <!-- Typing Text Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Karshoul;Software+Engineer;Work+with+passion+<3" alt="Typing SVG">
-  </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BCD4&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Karshoul;Software+Engineer;Always+learning+🚀" alt="Typing SVG" />
+</a>
 </div>
 
 </br>
@@ -23,7 +23,8 @@
   <code><img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
   <code><img title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
   <code><img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></code>
-  <code><img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></code>
+  <code><img title="Tailwind CSS" alt="Tailwind CSS" width="40px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" width="40px" />
+/></code>
 </p>
 
 </br>
