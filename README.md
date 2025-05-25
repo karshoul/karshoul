@@ -49,8 +49,8 @@
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carol42&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&layout=compact&theme=tokyonight&hide_border=true" />
+  ![Karshoul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karshoul&show_icons=true&theme=radical)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karshoul&theme=radical)
 </div>
 
 ---
