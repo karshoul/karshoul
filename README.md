@@ -48,10 +48,11 @@
 
 ## 📈 GitHub Stats & Activity
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=karshoul&show_icons=true&theme=radical" alt="Karshoul's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=karshoul&theme=radical" alt="GitHub Streak" />
 </div>
+
 
 
 ---
